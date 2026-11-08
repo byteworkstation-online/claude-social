@@ -1,0 +1,20 @@
+{
+  "name": "social",
+  "version": "0.1.0",
+  "description": "Post, comment and reply on LinkedIn, X and Reddit straight from a Claude Code conversation.",
+  "author": {
+    "name": "byteworkstation-online",
+    "url": "https://github.com/byteworkstation-online"
+  },
+  "keywords": [
+    "linkedin",
+    "twitter",
+    "x",
+    "reddit",
+    "social-media",
+    "mcp"
+  ],
+  "homepage": "https://github.com/byteworkstation-online/claude-social",
+  "repository": "https://github.com/byteworkstation-online/claude-social",
+  "license": "MIT"
+}

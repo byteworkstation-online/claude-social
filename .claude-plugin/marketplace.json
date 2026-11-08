@@ -1,0 +1,15 @@
+{
+  "name": "claude-social",
+  "description": "Claude Code plugin for posting to LinkedIn, X and Reddit.",
+  "owner": {
+    "name": "byteworkstation-online",
+    "url": "https://github.com/byteworkstation-online"
+  },
+  "plugins": [
+    {
+      "name": "social",
+      "source": "./",
+      "description": "Post, comment and reply on LinkedIn, X and Reddit from Claude Code."
+    }
+  ]
+}
